@@ -1,2 +1,2 @@
-# Simple-Password-Generator
-A strong password generator that avoids / as a character and avoids usage of the same two letters in a row.
+# Password and security
+Currently working on small projets to study cybersecurity and python as a beginner.
